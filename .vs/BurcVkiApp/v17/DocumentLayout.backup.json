@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cihan\\Csharp_wokspace\\BurcHesapla\\BurcVkiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3941068A-7821-4405-BFBB-382D077811BE}|BurcVkiApp.csproj|c:\\users\\cihan\\csharp_wokspace\\burchesapla\\burcvkiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3941068A-7821-4405-BFBB-382D077811BE}|BurcVkiApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cihan\\Csharp_wokspace\\BurcHesapla\\BurcVkiApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Cihan\\Csharp_wokspace\\BurcHesapla\\BurcVkiApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAqwDgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:49:21.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
